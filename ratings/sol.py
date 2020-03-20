@@ -35,7 +35,4 @@ while True:
 		d -= 1
 
 		
-	print("n",n)
-	print("d",d)
-	print("tri",tri)
 	print(tri - sub)
